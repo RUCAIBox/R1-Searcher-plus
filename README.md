@@ -31,15 +31,16 @@ The paper can be found here: [**arxiv.org/abs/2505.17005**](https://arxiv.org/ab
 
 
 # ✨ Method
-
+![benchmark_picture](./assets/model.jpg)
 
 # 📄 Evaluation
-
+![benchmark_picture](./assets/main_table.jpg)
 
 # 💫 Case Study
+![benchmark_picture](./assets/case_main.jpg)
 
 # 🙌 Compare to R1-Searcher
-
+![benchmark_picture](./assets/combined_rl_can_r1s++.jpg)
 
 
 # 🏃 Quick Start
