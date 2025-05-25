@@ -1,5 +1,5 @@
 
-<h1 align="center"> R1-searcher:  Incentivizing the Search Capability in LLMs via Reinforcement Learning</a></h1>
+<h1 align="center">R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning</a></h1>
 
 
 <div align="center">
